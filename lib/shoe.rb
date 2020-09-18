@@ -9,7 +9,8 @@ def initialize(brand)
 end 
 
 def cobble
-  puts "shoe had been repaired"
+  puts "Your shoe is as good as new!"
+  cobble= new 
 end   
 
 end   
