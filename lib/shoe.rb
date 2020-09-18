@@ -10,10 +10,8 @@ end
 
 def cobble
   puts "Your shoe is as good as new!"
+  condition= new 
 end   
 
-def condition(shoe) 
-  shoe.cobble = new 
-end   
 
 end   
