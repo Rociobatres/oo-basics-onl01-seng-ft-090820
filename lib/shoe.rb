@@ -8,7 +8,7 @@ def initialize(brand)
 @brand = brand
 end 
 
-def cobble(condition)
+def cobble
   puts "shoe had been repaired"
 end   
 
